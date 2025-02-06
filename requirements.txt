@@ -1,0 +1,15 @@
+gradio
+torch
+transformers
+Pillow
+numpy
+timm
+tensorflow
+tensorflow_hub
+onnxruntime
+rembg
+opencv-python-headless
+requests
+fastapi
+uvicorn[standard]
+python-multipart
